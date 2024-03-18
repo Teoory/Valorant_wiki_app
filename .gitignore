@@ -1,0 +1,11 @@
+*.idea
+.env
+*.env
+
+# dependencies
+*/node_modules
+*.pnp
+*.pnp.js
+*.txt
+.txt
+node_modules
